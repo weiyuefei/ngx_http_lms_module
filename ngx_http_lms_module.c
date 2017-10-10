@@ -1,6 +1,6 @@
 
 /*
- * Copyright (C) SDMC ltd.
+ * Copyright (C) feeman 
  * Author:       feeman
  */
 
